@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 Before 1.0, this project does not adhere to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.13.2] - 2026-8-30
+### Updated
+- scroll_derive: update syn to 3.0, thanks @jakobhellermann: https://github.com/m4b/scroll/pull/120
+
 ## [0.13.1]
 ### Added
 - scroll_derive: custom parsing contexts are allowed for fields, e.g., prior fields can be used, etc. See examples or tests for details.
